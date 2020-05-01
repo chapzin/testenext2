@@ -9,7 +9,7 @@ const Home = () => (
 
     <main>
       <h1 className="title">
-        Bem vindo ao teste do Ricardo </a>
+        Bem vindo ao teste do Ricardo ^_^
       </h1>
 
       <p className="description">
